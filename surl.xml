@@ -220,12 +220,12 @@
 		</project>
 		<project name="TextSecure" type="non_aosp">
 			<github>
-				<url>https://github.com/CyanogenMod/android_external_whispersystems_TextSecure/tree/cm-11.0/Superuser/res/values</url>
+				<url>https://github.com/CyanogenMod/android_external_whispersystems_TextSecure/tree/cm-11.0/res/values</url>
 			</github>
 		</project>
 		<project name="WhisperPush" type="non_aosp">
 			<github>
-				<url>https://github.com/CyanogenMod/android_external_whispersystems_WhisperPush/tree/cm-11.0/Superuser/res/values</url>
+				<url>https://github.com/CyanogenMod/android_external_whispersystems_WhisperPush/tree/cm-11.0/res/values</url>
 			</github>
 		</project>
 	</branch>
