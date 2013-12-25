@@ -242,6 +242,11 @@
 				<url>https://github.com/CyanogenMod/android_device_samsung_n80xx-common/tree/cm-10.2/DeviceSettings/res/values</url>
 			</github>
 		</project>
+		<project name="Oppo_N1" type="non_aosp">
+			<github>
+				<url>https://github.com/CyanogenMod/android_device_oppo_n1/tree/cm-10.2/configpanel/res/values</url>
+			</github>
+		</project>
 		
 		<!-- other packages/apps -->
 		<project name="FMRadio" type="non_aosp">
@@ -254,11 +259,6 @@
 		<project name="CMFota" type="non_aosp">
 			<github>
 				<url>https://github.com/Danesh/cm_fota_resources/tree/master/res/values</url>
-			</github>
-		</project>
-		<project name="Oppo_N1" type="non_aosp">
-			<github>
-				<url>https://github.com/Danesh/android_device_oppo_n1_res/tree/master/configpanel/res/values</url>
 			</github>
 		</project>
 		<project name="OneClickAndroid" type="non_aosp">
