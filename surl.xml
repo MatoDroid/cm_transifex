@@ -163,7 +163,7 @@
 				<url>https://github.com/CyanogenMod/android_packages_apps_Torch/tree/cm-11.0/res/values</url>
 			</github>
 		</project>
-		<project name="Voice+" type="non_aosp">
+		<project name="VoicePlus" type="non_aosp">
 			<github>
 				<url>https://github.com/CyanogenMod/android_packages_apps_VoicePlus/tree/cm-11.0/res/values</url>
 			</github>
