@@ -49,6 +49,16 @@
 				<url>https://github.com/CyanogenMod/android_device_samsung_epicmtd/tree/cm-11.0/EpicParts/res/values</url>
 			</github>
 		</project>
+		<project name="fmapp2" type="non_aosp">
+			<github>
+				<url>https://github.com/CyanogenMod/android_device_samsung_serrano-common/tree/cm-11.0/fm/fmapp2/res/values</url>
+			</github>
+		</project>
+		<project name="FMRecord" type="non_aosp">
+			<github>
+				<url>https://github.com/CyanogenMod/android_device_samsung_serrano-common/tree/cm-11.0/fm/FMRecord/res/values</url>
+			</github>
+		</project>
 		<project name="P1Parts" type="non_aosp">
 			<github>
 				<url>https://github.com/CyanogenMod/android_device_samsung_p1-common/tree/cm-11.0/P1Parts/res/values</url>
