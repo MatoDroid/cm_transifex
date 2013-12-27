@@ -204,11 +204,6 @@
 				<url>https://github.com/CyanogenMod/android_frameworks_base/tree/cm-11.0/packages/SystemUI/res/values</url>
 			</github>
 		</project>
-		<project name="InputDevices" type="aosp">
-			<github>
-				<url>https://github.com/CyanogenMod/android_frameworks_base/tree/cm-11.0/packages/InputDevices/res/values</url>
-			</github>
-		</project>
 		
 		<!-- theme engine -->
 		<project name="ThemeManager" type="non_aosp">
