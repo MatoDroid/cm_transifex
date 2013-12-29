@@ -81,9 +81,11 @@
 				<url>https://github.com/CyanogenMod/android_packages_apps_Calendar/tree/cm-11.0/res/values</url>
 			</github>
 		</project>
-		<project name="Camera2" type="aosp">
+		<project name="Camera2" type="none">
 			<github>
 				<url>https://github.com/CyanogenMod/android_packages_apps_Camera2/tree/cm-11.0/res/values</url>
+                <file>cm_strings.xml</file>
+                <file>qcomstrings.xml</file>
 			</github>
 		</project>
 		<project name="DeskClock" type="aosp">
