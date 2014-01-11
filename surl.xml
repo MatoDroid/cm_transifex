@@ -59,6 +59,11 @@
 				<url>https://github.com/CyanogenMod/android_device_samsung_serrano-common/tree/cm-11.0/fm/FMRecord/res/values</url>
 			</github>
 		</project>
+		<project name="GestureSettings" type="non_aosp">
+			<github>
+				<url>https://github.com/CyanogenMod/android_device_lge_g2-common/tree/cm-11.0/GestureSettings/res/values</url>
+			</github>
+		</project>
 		<project name="P1Parts" type="non_aosp">
 			<github>
 				<url>https://github.com/CyanogenMod/android_device_samsung_p1-common/tree/cm-11.0/P1Parts/res/values</url>
