@@ -254,11 +254,6 @@
 				<url>https://github.com/CyanogenMod/android_device_samsung_n80xx-common/tree/cm-10.2/DeviceSettings/res/values</url>
 			</github>
 		</project>
-		<project name="Oppo_N1" type="non_aosp">
-			<github>
-				<url>https://github.com/CyanogenMod/android_device_oppo_n1/tree/cm-10.2/configpanel/res/values</url>
-			</github>
-		</project>
 		
 		<!-- other packages/apps -->
 		<project name="FMRadio" type="non_aosp">
