@@ -103,6 +103,11 @@
 				<url>https://github.com/CyanogenMod/android_packages_apps_Dialer/tree/cm-11.0/res/values</url>
 			</github>
 		</project>
+		<project name="IncallUI" type="aosp">
+			<github>
+				<url>https://github.com/CyanogenMod/android_packages_apps_IncallUI/tree/cm-11.0/res/values</url>
+			</github>
+		</project>
 		<project name="Launcher3" type="aosp">
 			<github>
 				<url>https://github.com/CyanogenMod/android_packages_apps_Launcher3/tree/cm-11.0/res/values</url>
@@ -121,6 +126,11 @@
 		<project name="Telephony" type="aosp">
 			<github>
 				<url>https://github.com/CyanogenMod/android_packages_services_Telephony/tree/cm-11.0/res/values</url>
+			</github>
+		</project>
+		<project name="Trebuchet" type="aosp">
+			<github>
+				<url>https://github.com/CyanogenMod/android_packages_apps_Trebuchet/tree/cm-11.0/res/values</url>
 			</github>
 		</project>
 		
