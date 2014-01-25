@@ -59,11 +59,6 @@
 				<url>https://github.com/CyanogenMod/android_device_samsung_serrano-common/tree/cm-11.0/fm/FMRecord/res/values</url>
 			</github>
 		</project>
-		<project name="GestureSettings" type="non_aosp">
-			<github>
-				<url>https://github.com/CyanogenMod/android_device_lge_g2-common/tree/cm-11.0/GestureSettings/res/values</url>
-			</github>
-		</project>
 		<project name="P1Parts" type="non_aosp">
 			<github>
 				<url>https://github.com/CyanogenMod/android_device_samsung_p1-common/tree/cm-11.0/P1Parts/res/values</url>
@@ -252,26 +247,6 @@
 		</project>
 	</branch>
 	
-	<branch version="cm-10.2">
-		<!-- Devices -->
-		<project name="DeviceParts-msm8960" type="non_aosp">
-			<github>
-				<url>https://github.com/CyanogenMod/android_device_samsung_msm8960-common/tree/cm-10.2/DeviceSettings/res/values</url>
-			</github>
-		</project>
-		<project name="DeviceParts-n80xx" type="non_aosp">
-			<github>
-				<url>https://github.com/CyanogenMod/android_device_samsung_n80xx-common/tree/cm-10.2/DeviceSettings/res/values</url>
-			</github>
-		</project>
-		
-		<!-- other packages/apps -->
-		<project name="FMRadio" type="non_aosp">
-			<github>
-				<url>https://github.com/CyanogenMod/android_packages_apps_FMRadio/tree/cm-10.2/res/values</url>
-			</github>
-		</project>
-	</branch>
 	<branch version="master">
 		<project name="CMFota" type="non_aosp">
 			<github>
